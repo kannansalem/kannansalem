@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kannansalem
+- 👀 I’m interested in ansible playbooks
+- 🌱 I’m currently learning ansible and openshift
+- 💞️ I’m looking to collaborate on wiriting ansible playbook 
